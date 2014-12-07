@@ -37,7 +37,7 @@ In order to use the deletion feature, one must add the mapping by hand
 ``` js
 { "keys": ["ctrl+shift+t"], "command": "delete_trailing_spaces" }
 
-Here, pressing Ctrl + Shift + t will delete all trailing spaces.
+Pressing Ctrl + Shift + t will delete all trailing spaces.
 ```
 
 ### Change the highlighting color
